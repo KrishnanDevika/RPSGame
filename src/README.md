@@ -14,12 +14,9 @@ This Game consists of 6 options.
 * Water
 
 ### Screenshots
-![database](https://github.com/KrishnanDevika/RPSGame/blob/main/Screenshots/img_1.png)
-![database](https://github.com/KrishnanDevika/RPSGame/blob/main/Screenshots/img_2.png)
-![database](https://github.com/KrishnanDevika/RPSGame/blob/main/Screenshots/img_3.png)
-![database](https://github.com/KrishnanDevika/RPSGame/blob/main/Screenshots/img_4.png)
-![database](https://github.com/KrishnanDevika/RPSGame/blob/main/Screenshots/img_5.png)
-![database](https://github.com/KrishnanDevika/RPSGame/blob/main/Screenshots/img_6.png)
+![database](https://github.com/KrishnanDevika/RPSGame/blob/main/Screenshots/img_8.png)
+![database](https://github.com/KrishnanDevika/RPSGame/blob/main/Screenshots/img_9.png)
+
 
 
 
