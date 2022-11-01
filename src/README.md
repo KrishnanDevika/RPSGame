@@ -14,7 +14,14 @@ This Game consists of 6 options.
 * Water
 
 ### Screenshots
-![database](https://github.com/KrishnanDevika/PharmacyManagementSystem/blob/ReadMe/pharmacy.PNG)
+![database](https://github.com/KrishnanDevika/RPSGame/blob/main/Screenshots/img_1.png)
+![database](https://github.com/KrishnanDevika/RPSGame/blob/main/Screenshots/img_2.png)
+![database](https://github.com/KrishnanDevika/RPSGame/blob/main/Screenshots/img_3.png)
+![database](https://github.com/KrishnanDevika/RPSGame/blob/main/Screenshots/img_4.png)
+![database](https://github.com/KrishnanDevika/RPSGame/blob/main/Screenshots/img_5.png)
+![database](https://github.com/KrishnanDevika/RPSGame/blob/main/Screenshots/img_6.png)
+
+
 
 
 ### Features
@@ -45,7 +52,7 @@ This Game consists of 6 options.
 
 ### Game flow
 
-![database](https://github.com/KrishnanDevika/PharmacyManagementSystem/blob/ReadMe/dbSchema.PNG)
+![database](https://github.com/KrishnanDevika/RPSGame/blob/main/Screenshots/img.png)
 
 
 
